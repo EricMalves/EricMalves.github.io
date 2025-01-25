@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Find Me"
-    url: /TestInfo
   - title: "Anima"
-    url: /Anima
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /TestInfo
+  - title: "Other Works"
+    url: /Writing
+  - title: "Contact Me"
+    url: /Contact
   # - title: "Sitemap"
   #   url: /sitemap/
