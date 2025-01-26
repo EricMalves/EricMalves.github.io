@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Anima"
-    url: /TestInfo
-  - title: "Other Works"
-    url: /Writing
-  - title: "Contact Me"
-    url: /Contact
+  - title: "Books"
+    url: /writing/books/
+  #- title: "Other Works"
+  #  url: /Writing
+  #- title: "Contact Me"
+  #  url: /Contact
   # - title: "Sitemap"
   #   url: /sitemap/
