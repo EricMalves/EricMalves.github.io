@@ -19,11 +19,11 @@ In life, change is inevitable. But for some, this change is profoundly physical.
 The book is availible in many different formats, paid and free.
 
 #### Physical Print
-[Amazon](https://a.co/d/iohkhjz)
+[Amazon](https://a.co/d/iohkhjz)  
 [Kofi](https://ko-fi.com/s/595091cdf3)
 
 #### EPUB/Kindle
-[Kofi](https://ko-fi.com/s/aed8acd235) Pay what you want!
+[Kofi](https://ko-fi.com/s/aed8acd235) Pay what you want!  
 [Kindle/Amazon](https://a.co/d/degGSbY)
 
 #### PDF
