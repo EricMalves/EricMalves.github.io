@@ -17,7 +17,7 @@ In life, change is inevitable. But for some, this change is profoundly physical.
 
 ### How to read The Bird House
 
-The book is availible in many different formats, paid and free.
+The book is available in many different formats, paid and free.
 
 #### Physical Print
 [Amazon](https://a.co/d/iohkhjz)  
