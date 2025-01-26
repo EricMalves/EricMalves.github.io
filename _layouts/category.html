@@ -1,12 +1,13 @@
 ---
 layout: archive
+taxonomy: CompleteBooks
 ---
 
 {{ content }}
 
 <ul class="entry-list">
   {% for post in site.posts %}
-    {% if post.categories contains taxonomy %}
+    {% if post.categories contains page.taxonomy %}
       <li>
         {% if post.image %}
         <div class="entry-image">
@@ -25,4 +26,3 @@ layout: archive
     {% endif %}
   {% endfor %}
 </ul>
-
