@@ -5,5 +5,6 @@ date: 2024-01-24
 categories: [CompleteBooks]
 tags: [books]
 author: "Eric Malves"
+image: /assets/images/atbh.png
 ---
 This is the page for Anima The Bird House
