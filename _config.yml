@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric Malves"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pfperic.jpg"
   bio              : "Author and maker."
   location         : "United States"
   email            :
