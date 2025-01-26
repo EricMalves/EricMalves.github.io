@@ -1,6 +1,6 @@
 ---
 title: "Books"
-layout: category-archive
+layout: category
 permalink: /writing/books/
 taxonomy: CompleteBooks
 ---
