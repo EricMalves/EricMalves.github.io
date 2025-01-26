@@ -1,6 +1,6 @@
 ---
 title: "Complete Books"
-layout: categories
+layout: books
 permalink: /books
 entries_layout: grid
 author_profile: true
