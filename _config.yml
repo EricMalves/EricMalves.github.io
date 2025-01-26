@@ -304,7 +304,13 @@ tag_archive:
 collections:
   books:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:categories:output_ext
+  birdhouse:
+    output: true
+    permalink: /:collection/:categories:output_ext
+  brokenwing:
+    output: true
+    permalink: /:collection/:categories:output_ext
 
 # HTML Compression
 # - https://jch.penibelst.de/
