@@ -4,7 +4,25 @@ layout: archive
 
 {{ content }}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
-</div>
+<ul class="entry-list">
+  {% for post in site.posts %}
+    {% if post.categories contains taxonomy %}
+      <li>
+        {% if post.image %}
+        <div class="entry-image">
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+          </a>
+        </div>
+        {% endif %}
+        <div class="entry-content">
+          <h2 class="entry-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+        </div>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
