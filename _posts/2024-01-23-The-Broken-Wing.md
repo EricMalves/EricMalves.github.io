@@ -17,7 +17,7 @@ Two years after the events of Anima: The Bird House, Lyall is living his new lif
 
 ### How to read The Broken Wing
 
-The book is availible in many different formats, paid and free.
+The book is available in many different formats, paid and free.
 
 #### Physical Print
 [Amazon](https://a.co/d/9ar96a0)  
