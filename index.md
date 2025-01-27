@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# Welcome!
 
 I'm Eric Malves, an author and general maker. 
 
