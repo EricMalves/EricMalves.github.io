@@ -5,6 +5,7 @@ categories: [CompleteBooks]
 tags: [books]
 author: "Eric Malves"
 image: /assets/images/atbh.png
+author_profile: true
 ---
 
 ## The first book in the Anima series.
