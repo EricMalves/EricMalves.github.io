@@ -3,7 +3,7 @@ title: "Anima: The Broken Wing"
 date: 2024-01-23 
 categories: [CompleteBooks]
 tags: [books]
-image: /assets/images/atbw.png
+image: /assets/images/atbw-smol.png
 ---
 
 ## The Second book in the Anima series.
