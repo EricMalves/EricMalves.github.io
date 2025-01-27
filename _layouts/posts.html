@@ -3,6 +3,10 @@ layout: archive
 author_profile: true
 ---
 
+{% if page.author_profile %}
+  {% include author-profile.html %}
+{% endif %}
+
 {{ content }}
 
 <ul class="taxonomy__index">
@@ -31,6 +35,3 @@ author_profile: true
   </section>
 {% endfor %}
 
-{% if page.author_profile %}
-  {% include author-profile.html %}
-{% endif %}
