@@ -2,15 +2,6 @@
 layout: default
 ---
 
-{% if page.author %}
-  <div class="author-profile">
-    <h3>About the Author</h3>
-    <p>{{ site.data.authors[page.author].name }}</p>
-    <p>{{ site.data.authors[page.author].bio }}</p>
-    <img src="{{ site.data.authors[page.author].avatar }}" alt="{{ site.data.authors[page.author].name }}">
-  </div>
-{% endif %}
-
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
