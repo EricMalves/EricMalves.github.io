@@ -1,6 +1,4 @@
 ---
-author_profile: true
-layout: post
 title: "Anima: The Broken Wing"
 date: 2024-01-23 
 categories: [CompleteBooks]
