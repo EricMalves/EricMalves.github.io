@@ -8,7 +8,7 @@ image: /assets/images/atbh-smol.png
 
 ## The first book in the Anima series.
 
-![Anima: The Bird House](/assets/images/atbh-smol.png "Anima: The Bird House")
+![Anima: The Bird House](/assets/images/atbh.png "Anima: The Bird House")
 
 In life, change is inevitable. But for some, this change is profoundly physical. An unexplained condition transforms certain individuals into human-animal hybrids, with their transformation culminating in a complete metamorphosis. Lyall, a young man on the brink of adulthood, is about to undergo the most significant transformation of his life. Living in a house filled with other avian hybrids, Lyall gains a unique perspective—seeing the world through a bird’s eye view.
 
