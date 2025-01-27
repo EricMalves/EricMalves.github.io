@@ -1,11 +1,9 @@
 ---
-layout: single
 title: "Anima: The Bird House"
 date: 2024-01-24 
 categories: [CompleteBooks]
 tags: [books]
 image: /assets/images/atbh.png
-author_profile: true
 ---
 
 ## The first book in the Anima series.
