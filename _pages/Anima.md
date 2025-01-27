@@ -1,9 +1,10 @@
 ---
-layout: archive
-title: Test Information
-permalink: TestInfo
-entries_layout: grid
+layout: Single
+title: Contact Me
+permalink: /Contact
 author_profile: true
 ---
 
-hello world
+# How to get in touch
+You can message me on Telegram @EricMalves or using my socials on the sidebar (above on Mobile)
+
