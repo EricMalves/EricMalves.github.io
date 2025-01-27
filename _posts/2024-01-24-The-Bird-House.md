@@ -4,7 +4,6 @@ title: "Anima: The Bird House"
 date: 2024-01-24 
 categories: [CompleteBooks]
 tags: [books]
-author: "Eric Malves"
 image: /assets/images/atbh.png
 author_profile: true
 ---
