@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Anima: The Bird House"
 date: 2024-01-24 
 categories: [CompleteBooks]
