@@ -2,21 +2,6 @@
 layout: default
 ---
 
-{% if page.author_profile %}
-<div class="author-profile">
-  <h3>About the Author</h3>
-  <p>{{ site.author.name }}</p>
-  <p>{{ site.author.bio }}</p>
-  <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" />
-  <ul class="author-social">
-    {% if site.author.social %}
-      {% for platform, link in site.author.social %}
-        <li><a href="{{ link }}">{{ platform | capitalize }}</a></li>
-      {% endfor %}
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
 
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
