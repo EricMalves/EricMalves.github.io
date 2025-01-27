@@ -2,8 +2,8 @@
 main:
   - title: "Books"
     url: /writing/books/
-  #- title: "Other Works"
-  #  url: /Writing
+  - title: "Contact Me"
+    url: /Contact
   #- title: "Contact Me"
   #  url: /Contact
   # - title: "Sitemap"
