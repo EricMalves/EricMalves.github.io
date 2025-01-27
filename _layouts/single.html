@@ -2,6 +2,24 @@
 layout: default
 ---
 
+{% if page.author_profile %}
+  {% assign author = page.author | default: site.author %}
+  <div class="author-profile">
+    <h3>About the Author</h3>
+    <p>{{ author.name }}</p>
+    <p>{{ author.bio }}</p>
+    <img src="{{ author.avatar }}" alt="{{ author.name }}" />
+    {% if author.social %}
+      <ul class="author-social">
+        {% for platform, link in author.social %}
+          <li><a href="{{ link }}">{{ platform | capitalize }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+{% endif %}
+
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
