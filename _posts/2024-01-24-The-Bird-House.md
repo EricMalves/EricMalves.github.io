@@ -26,3 +26,7 @@ The book is available in many different formats, paid and free.
 
 #### PDF
 [FurAffinity](https://www.furaffinity.net/view/49571094/)
+
+#### Read Online
+[Anima: The Bird House Chapter 1](/BirdHouse/Chapter1)
+
