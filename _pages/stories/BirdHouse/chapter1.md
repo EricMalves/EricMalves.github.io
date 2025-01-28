@@ -262,3 +262,5 @@ Beep! Beep! Beep!
 &nbsp;&nbsp;&nbsp;&nbsp;I turned to face the door, and it opened. It was again my mom; a rusty brown feather was in her hand. I looked into my hand, cupping it away from her, and inside was an identical feather. She looked directly at me and asked a simple question.  
 &nbsp;&nbsp;&nbsp;&nbsp;"When were you going to tell me?"  
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+ [Next Chapter](/BirdHouse/Chapter2)
