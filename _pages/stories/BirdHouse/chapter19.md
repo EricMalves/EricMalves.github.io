@@ -95,9 +95,7 @@ I climbed out of my bed, standing and stretching for the last time in this room.
 &nbsp;&nbsp;&nbsp;&nbsp;THANK YOU    
 &nbsp;&nbsp;&nbsp;&nbsp;     
 &nbsp;&nbsp;&nbsp;&nbsp;     
-&nbsp;&nbsp;&nbsp;&nbsp;I want to thank you once again for the support I have been graciously given while writing this story. It has been a dream to write this since I began the rough outline and brainstorming of ideas in 2018. This book would never have existed without the community's feedback and help. This may be my first foray into writing, but I believe I have been able to make something I am truly proud of. Thank you for enduring my green writing. Looking back at my first drafts, your help made me a more confident and better writer.    
-&nbsp;&nbsp;&nbsp;&nbsp;    
-&nbsp;&nbsp;&nbsp;&nbsp;If you want to give feedback, leave a review or scan the QR code on the back to find ways to get in touch. I love hearing from everyone and try my best to respond to any messages!    
+&nbsp;&nbsp;&nbsp;&nbsp;I want to thank you once again for the support I have been graciously given while writing this story. It has been a dream to write this since I began the rough outline and brainstorming of ideas in 2018. This book would never have existed without the community's feedback and help. This may be my first foray into writing, but I believe I have been able to make something I am truly proud of. Thank you for enduring my green writing. Looking back at my first drafts, your help made me a more confident and better writer.      
 &nbsp;&nbsp;&nbsp;&nbsp;     
 &nbsp;&nbsp;&nbsp;&nbsp;     
 &nbsp;&nbsp;&nbsp;&nbsp;     
