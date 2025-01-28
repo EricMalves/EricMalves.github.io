@@ -5,7 +5,24 @@ permalink: /BirdHouse/Chapter1
 author_profile: true
 ---
 
-
+ANIMA SYMPTOM LOG    
+&nbsp;&nbsp;&nbsp;&nbsp;DATE: August 27th    
+&nbsp;&nbsp;&nbsp;&nbsp;NAME: LYALL WILLIAMS    
+&nbsp;&nbsp;&nbsp;&nbsp;AGE: 20    
+&nbsp;&nbsp;&nbsp;&nbsp;SEX: Male    
+&nbsp;&nbsp;&nbsp;&nbsp;HYBRID: Unknown assumed B.O.P.    
+&nbsp;&nbsp;&nbsp;&nbsp;SYMPTOMS: Golden iris, increased vision perception, corners of eyes have small rust colored feathers. Feathers have since disappeared, vision has improved but iris remains gold in color.    
+&nbsp;&nbsp;&nbsp;&nbsp;SPECIAL NOTES: Patient was unaware of the condition until today. Has no family record of condition    
+&nbsp;&nbsp;&nbsp;&nbsp;RECOMMENDATIONS: Patients should have blood testing and samples(if able) of hybrid materials to test for proper species. Recommended to local support group. Depending on results of testing, patients may be chipped for wildlife tracking.    
+&nbsp;&nbsp;&nbsp;&nbsp;END OF REPORT    
+&nbsp;&nbsp;&nbsp;&nbsp;    
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;    
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;    
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;    
+&nbsp;&nbsp;&nbsp;&nbsp;
 Beep! Beep! Beep!  
 &nbsp;&nbsp;&nbsp;&nbsp;I woke up to my alarm screaming and quickly shut it off.  
 &nbsp;&nbsp;&nbsp;&nbsp;It was Thursday morning, and my classes at Silvermen College started in about forty-five minutes. It was a clear, sunny day, and this year had been hot for late August. I grabbed my bag and laptop and headed out toward the college. It's only a fifteen-minute bike ride, but I like getting there early and chatting with my friend Kole.  
