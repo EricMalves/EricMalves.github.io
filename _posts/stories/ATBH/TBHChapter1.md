@@ -1,8 +1,8 @@
 ---
 title: "Anima: The Bird House Chapter 1"
-date: 2023-01-23 
-categories: [birdhouse]
-tags: [ATBH]
+layout: single
+permalink: /BirdHouse/Chapter1/
+author_profile: true
 ---
 
 
