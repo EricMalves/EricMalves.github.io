@@ -1,0 +1,108 @@
+---
+title: "Anima: The Bird House Chapter 15"
+layout: single
+permalink: /BirdHouse/Chapter15
+author_profile: true
+---
+
+
+"Hello?" I called out to the empty room, but there was no one to call back.    
+&nbsp;&nbsp;&nbsp;&nbsp;Looking around, it was as though everyone had taken off and left the house. Nothing seemed out of place. Chairs were neatly put away against their respective tables, couches and recliners perfectly placed facing the television.     
+&nbsp;&nbsp;&nbsp;&nbsp;"Matthew? Rylie?" I yelled out as I walked toward the front door. Walking on the living room's carpeted floor, my talons could grip the surface without issue. Once I reached the entryway to the front door, the hardwood had much less traction. My foot slipped, and I fell sideways to the ground. Attempting to catch myself, I put my wing out, which contacted the floor and only succeeded in rolling myself onto my back.     
+&nbsp;&nbsp;&nbsp;&nbsp;Looking down to my feet, past the white and brown feathers, the dull yellow scaly limbs desperately grabbed at the air. Using my outstretched wing, I rolled myself onto my belly and back onto my feet. Carefully I approached the door, taking slow, cautious steps. I reached for the door handle with my beak, bit it, and pulled it down until the door popped free, allowing me to step out into the warm sunlight.    
+&nbsp;&nbsp;&nbsp;&nbsp;Walking out past the porch and down onto the dirt and short grass, I felt sure of my footing again. The grass only extended a short distance before it met a large brush wall—much too tall and thick for me to climb over or through. Swiveling my head, I saw the wall seemed to extend around the house. The deep forest extended past the wall in all directions except directly in front of me. There was a gap in the trees just past the wall in front of me. It must lead somewhere.    
+&nbsp;&nbsp;&nbsp;&nbsp;Looking above the wall, there was a branch, small and with plenty of open air around it—a perfect vantage point. I unfurled my wings, wide and proud. My tail fanned out as I ducked my head low, lifting my wings high. My legs crouched until the feathers of my chest just brushed the ground. I took a deep breath, ready to take off.    
+&nbsp;&nbsp;&nbsp;&nbsp;In one quick action, I jumped into the air a few inches from the ground. My wings came down quickly, the resistance of the air fighting their movement but pushing down harder until the tips of my wings brushed the dirt. My wings pulled in close as they raised again before extending out and pushing back toward the ground. I was climbing in the air as I repeated the routine of the rhythmic beats.     
+&nbsp;&nbsp;&nbsp;&nbsp;Before I knew it, I was on a level with the branch. I stopped beating my wings and held them outstretched, feeling the wind slipping across my body. The branch was getting closer, so I leaned back, outstretching my legs. My talons were open and ready to grab. I slightly pushed as I flared my wings, eyes locked on the gray tree limb. My talons made contact, digging into the bark of the tree. I held my wings out for balance before folding them neatly to my sides again.    
+&nbsp;&nbsp;&nbsp;&nbsp;There was a breeze up that high, approximately fifty feet from the ground below. I could only see grass and trees, not a human in sight. The light breeze rustled some of the feathers on my chest as trees creaked and leaves swayed. I looked back to where I had taken off from. I had the urge to fly forward again, away from the building. As I prepared to jump, a pricking feeling shot up my wing as if I was stabbed with something, but on closer inspection, it was free of anything unusual.    
+&nbsp;&nbsp;&nbsp;&nbsp;There was a quiet beeping sound in the distance, and I could not tell which direction it was from. Always sounding like it was to my left, no matter how far I turned my head. I turned back to face the clearing and fell back toward the ground with a slight hop. I opened my wings, and the wind carried me forward. My tail made minor corrections as the breeze bumped me in the air.     
+&nbsp;&nbsp;&nbsp;&nbsp;I continued flying, only flapping as I got closer to the ground until the trees cleared to an open meadow. Tall grass covered most of the environment, with a few small bushes and a handful of trees taking up the rest. Eyeing one of the trees, I again made my landing. Looking across the meadow, I could see the movement of small creatures in the grass with stellar detail. Although, the sun was beginning to set, and my vision was losing its edge as the light faded.     
+&nbsp;&nbsp;&nbsp;&nbsp;I stepped close to the tree trunk, preparing myself to rest for the night. The black void of the once vast meadow was only interrupted by the moon's round shape. Closing my eyes, I tried to rest, as tomorrow, I needed to find something. What exactly was I looking for? I could not quite remember, but I knew I was searching for something.     
+&nbsp;&nbsp;&nbsp;&nbsp;*beep*     *beep*     *beep*    
+&nbsp;&nbsp;&nbsp;&nbsp;That sound was back again. It was slow, but consistent, and quiet, but persistent. Was it following me? I must have traveled at least a mile since I heard it last. It again always sounded like it was from my left. I could not fly from it now as I was blind to the night sky and could only hide and hope it went away. Nervous, I tried to stay still, my eyes as useless open as they were closed.     
+&nbsp;&nbsp;&nbsp;&nbsp;*beep*beep*beep*    
+&nbsp;&nbsp;&nbsp;&nbsp;The beeping was now faster, still quiet but gaining speed. I tried to concentrate on where it could be coming from. Once again, I felt the prick on my arm with a slight burning sensation. The volume of the beeping increased but only slightly at first. My heart was racing as the beeping sped up to an incredible speed again—Sounding closer, louder as it approached me.    
+&nbsp;&nbsp;&nbsp;&nbsp;"…waking…soon," said a man's voice as distant as the beeping. I could not hear everything it said.    
+&nbsp;&nbsp;&nbsp;&nbsp;"…he…himself," said a woman's voice to the right, still quiet.    
+&nbsp;&nbsp;&nbsp;&nbsp;The beeping loudness increased to sound as if it was right next to me. A pressure was applied on my back like I was being pressed forward. The branch I was holding disappeared, my talons stuck open and unable to close. My wings stuck to my side as if I was wrapped up. I did the only thing I could do, I opened my beak and let out a screech hoping it would scare away whatever had me.    
+&nbsp;&nbsp;&nbsp;&nbsp;"KEEEEE-AHHHHH!" I screamed.    
+&nbsp;&nbsp;&nbsp;&nbsp;The beeping was now the loudest it had ever been, feeling like it was inches from my head. It had me, and I was trapped. I opened my beak and tried again.    
+&nbsp;&nbsp;&nbsp;&nbsp;"KEEEE-AHHHHH!"    
+&nbsp;&nbsp;&nbsp;&nbsp;I forced my eyes to open, ready to bite, fight and run from the thing that held me. My eyes were flooded with bright white light, so bright I had to close them to try and block it as my eyes burned from the intensity.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Lyall?" I heard the man say. He was close, within feet of me.     
+&nbsp;&nbsp;&nbsp;&nbsp;Lyall? What is Lyall? I have heard that name before…    
+&nbsp;&nbsp;&nbsp;&nbsp;"Lyall, honey," the woman's voice echoed. Her voice was familiar, as if I had heard it before.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Giving him the blocker," the man said, right before I felt the prick again.     
+&nbsp;&nbsp;&nbsp;&nbsp;Instantly I felt… different. It felt as though a veil was lifted from my face. At the same time, my eyes finally adjusted. I struggled to focus them on the objects in front of me, and I could tell they were white and gray square tiles, but my eyes didn't seem like they wanted to focus on them.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Lyall? Can you hear me?" the man said, "Nod if you can."    
+&nbsp;&nbsp;&nbsp;&nbsp;I nodded my head for the man.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Do you know where you are?" he asked.    
+&nbsp;&nbsp;&nbsp;&nbsp;I shook my head. Looking over at him, I could see a man with a darker complexion in a white coat that continued to the ground. Blinking my eyes now felt like two separate actions—a blurry wipe followed by darkness, unlike the uninterrupted blurry wipe before.    
+&nbsp;&nbsp;&nbsp;&nbsp;"You're currently at the hospital. You've been out for the past few weeks after you fell and hit your head on a table. Things may take a while to get used to. We administered a drug that can take away the instincts from your changes," he continued. "It hasn't been tested in avians, so we are not sure how it will affect you."    
+&nbsp;&nbsp;&nbsp;&nbsp;Looking to my right, I saw two familiar faces: my mom and Matthew. Although, Matthew's eyes were jet black, and his head was slightly shorter than before. My mom's eyes were red, her face swollen as if she had been crying.    
+&nbsp;&nbsp;&nbsp;&nbsp;"We heard you were being woken up today. So the whole freak show is waiting for you," Matthew said. "I'll leave you two be and I'll be in the waiting room with the others." He walked out the door, closing it as he left.    
+&nbsp;&nbsp;&nbsp;&nbsp;My mom held her arms up in front of her chest. "Is it you?" she asked.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Yeah, it's me, mom. It's just me," I said as she wrapped her arms around me. My heart rate slowed as I relaxed, and as it did, the beeping slowed as well.    
+&nbsp;&nbsp;&nbsp;&nbsp;     
+&nbsp;&nbsp;&nbsp;&nbsp;December 12th    
+&nbsp;&nbsp;&nbsp;&nbsp;After my hug with mom, she sat and told me about everything that had happened. Apparently, I passed out at the bar top and, as I fell from the seat, I hit my head on the glass table behind me, shattering it. After I didn't immediately wake up, Nash called an ambulance, and I was taken to the hospital. Because of the hit and a fracture on my skull, I was placed in a temporary coma until they could make sure my head was fine. A side effect of slow changes was an incredibly accelerated healing of my skull. While waking up, she said I was screeching and fighting. Having expected the possibility of this, they had strapped me down to the bed beforehand. They administered an experimental drug that could sometimes stop instinctual brain activity. This helped pull me from my trance, but had also given some odd side effects; my brain no longer used some of my instincts needed for my changed body, at least until it wore off.    
+&nbsp;&nbsp;&nbsp;&nbsp;Blinking was now a multi-action process, and my balance was terrible without my tail counteracting. My eyes struggle to focus, and my breathing feels labored, but my mind feels 100% me, not a single bird-like thought or action. I hadn't realized how much I acted differently, how much I was different until it was all taken away.     
+&nbsp;&nbsp;&nbsp;&nbsp;Walking out of my room and into the waiting area, I was met with the entirety of the AA crew: Matthew, Rylie, Nash, Benji, Jeremy, and Weston. Although, not everything was the same. Rylie sported a gray beak, not too unlike my own. Jeremy had a dull blue tail, matching the feathers on his face. Nash had red feathers growing on his arms like little hairs. Weston had bright blue feathers covering the back of his head, replacing the little hair he had. Benji had the most apparent change of them all. From the middle of his face protruded a toucan's enormous orange and black beak.    
+&nbsp;&nbsp;&nbsp;&nbsp;I slowly walked to the group of chairs where they sat. With my tail no longer moving to assist in balance, I struggled as my body felt like it wanted to fall forward, and my useless tail only added more mass to fight. Nash saw this, and the whole group stood and ran to my side, quickly seating me at the nearest chair.     
+&nbsp;&nbsp;&nbsp;&nbsp;We visited for a while and everyone shared their new changes. It was fun to hear some of the excitement, but I had the lingering thought that the changes may have been my fault somehow. Everyone spoke of worrying about me and what had happened the night I fell, and from my experience, I know what stress can do to a hybrid.    
+&nbsp;&nbsp;&nbsp;&nbsp;We joked about Weston now being the only "lips" club member. Benji now struggled to speak, but still had mostly functional vocal cords. Getting through doorways now required some extra planning on his part. Rylie switched to a fully meat-based diet, so I was no longer the only raw meat eater in the house. This made Nash happy, as he had fewer mouths to cook for.    
+&nbsp;&nbsp;&nbsp;&nbsp;I was to be monitored for the night and would be allowed to leave in the morning. Sometime tomorrow, the instinct inhibitor would wear off, and things should return to how they were after the changes. Everyone had left except my mom, who insisted on staying with me overnight. She laid in the tiny chair in the corner of the room while I attempted to sleep on the bed. The dark of the room left me blind again.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Lyall?" Mom whispered, "are you still awake?"    
+&nbsp;&nbsp;&nbsp;&nbsp;"Yeah, I'm up. Are you awake?" I asked her.    
+&nbsp;&nbsp;&nbsp;&nbsp;"When did your mouth change?" she asked.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Two days ago…I mean before I fell," I corrected myself.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Were you afraid to tell me?" she asked quietly. "You can be honest."    
+&nbsp;&nbsp;&nbsp;&nbsp;I paused before answering, "I didn't know what you would think. I know this has been hard for you."    
+&nbsp;&nbsp;&nbsp;&nbsp;"Next time, just tell me when something happens," she said. "It's not like I will be upset. I just want to know what is going on in your life."     
+&nbsp;&nbsp;&nbsp;&nbsp;"I know. I'm sorry I didn't tell you sooner," I said, readjusting my position.    
+&nbsp;&nbsp;&nbsp;&nbsp;There was a short time of silence before she continued. "It was nice to meet your friends, and that Nash character is a funny guy," she said with a chuckle.    
+&nbsp;&nbsp;&nbsp;&nbsp;"They are my second family. I don't know what I would do without them," I said.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Sad to hear about Benji, but he seems happy with the plan. They will take good care of him at Arbour," Mom sighed.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Arbour?"    
+&nbsp;&nbsp;&nbsp;&nbsp;"Yeah, the rescue that Benji is relocating to is in Arbour. Didn't you know?"  her voice sounded surprised.    
+&nbsp;&nbsp;&nbsp;&nbsp;"No, I didn't know…" We both sat in silence until sleep finally overcame us.    
+&nbsp;&nbsp;&nbsp;&nbsp;I slept until sunrise. I experienced an ordinary human dream for the first time in months. Until now, it was always some weird dream involving the hawk or just no dreams. This time, I dreamt of school, and having forgotten my bag, I snuck out, thinking I would get in less trouble somehow. It was weird, but it was a shift from the usual. The inhibitor wore off shortly after I woke up, and I was back to feeling my birdy self, for better or worse.    
+&nbsp;&nbsp;&nbsp;&nbsp;Upon leaving the hospital, I walked outside with my mom to find the ground covered in seven inches of snow. The cold wind was in stark contrast to my hallucination while waking up. Mom drove me to the AA house and, after a few words, left me there. I could tell she was worried, but she tried her best to hide it.     
+&nbsp;&nbsp;&nbsp;&nbsp;I walked into the house to the excitement of everyone inside. A crude "Welcome Home" sign was on the wall, along with most everyone rushing me as I walked in. I sat on the couch to see the table in front of it now had a roughly cut plywood top. Knowing what I had done to the table, I pretended I didn't notice it.    
+&nbsp;&nbsp;&nbsp;&nbsp;"How's it feel to be back?" Nash asked as he sat down.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Fine. I guess I never knew what it was like to be gone," I replied.    
+&nbsp;&nbsp;&nbsp;&nbsp;"We missed ya, bud," Nash said.    
+&nbsp;&nbsp;&nbsp;&nbsp;"I missed you guys too," I said, even though it felt like everything happened just yesterday.    
+&nbsp;&nbsp;&nbsp;&nbsp;Matthew sat down next to me and put an arm around my shoulder. "So, did anything fun happen while you were out?" he asked. "You had some issues waking up, and it seemed like you were fighting something."     
+&nbsp;&nbsp;&nbsp;&nbsp;"I don't know how to explain it. It was like I was in a different body, in a different world," I tried to explain. "It wasn't for long, I guess just long enough to go outside and fly a bit."     
+&nbsp;&nbsp;&nbsp;&nbsp;"Fly?" Rylie questioned.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Yeah, I had wings and flew from the ground to a branch. Then it got dark, and I woke up," I said, recalling the dream.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Oh, that's… worrying," Rylie said quietly.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Maybe," I said back. "What's this I heard about Benji?"     
+&nbsp;&nbsp;&nbsp;&nbsp;"Oh, his beak? Yeah, that was quite a morning!" Nash said, laughing.    
+&nbsp;&nbsp;&nbsp;&nbsp;"No, something about him going to Arbour?" I asked. The group got silent, and there were a few worried expressions.    
+&nbsp;&nbsp;&nbsp;&nbsp;"You heard about that?" Matthew asked. "Yeah, that's in two weeks. You and I should talk about it in a bit."     
+&nbsp;&nbsp;&nbsp;&nbsp;"Oh, sorry if I wasn't supposed to know," I said to Matthew.    
+&nbsp;&nbsp;&nbsp;&nbsp;"You're good. It makes telling you a bit easier," he said, half chuckling.    
+&nbsp;&nbsp;&nbsp;&nbsp;We continued small talk for a bit until the food was ready for dinner. Everyone sat at the table, each with slightly different foods before them. Matthew, Weston, and Nash were the only ones eating the cooked pork. Rylie and I had raw pork on our plates. Jeremy had small, whole fish on his plate. Benji had some small meat squares and chopped fruit on his.    
+&nbsp;&nbsp;&nbsp;&nbsp;We ate and spoke about the past few days and the craziness of me being put in the hospital. Apparently, they were told to prepare for the worst, as doctors were not the best prepared to deal with a half-human patient. An avian vet was brought in to try and give insight into my body structure. Usually, the hospital would not involve itself in change-related emergencies, but since this was technically blunt force trauma, they accepted me.    
+&nbsp;&nbsp;&nbsp;&nbsp;After we finished eating our part of the vast menu, Matthew asked to speak with me in private. We walked upstairs as everyone else moved to the living room for a movie. In my room, I sat on the bed and Matthew grabbed my desk chair, sitting on it backward. I could tell he was dreading the conversation.     
+&nbsp;&nbsp;&nbsp;&nbsp;"Benji is leaving us on the twenty-ninth. He wanted to have Christmas with the group, but then he is flying south," Matthew said, depressed. "He has some valid reasons, but we found a place in Arbour that would accept him. They are not any sort of a zoo, or somewhere he will be experimented on. Just a massive indoor aviary displaying tropical birds."    
+&nbsp;&nbsp;&nbsp;&nbsp;"So is he going to stay there until he fully changes?" I asked.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Well, kind of. He's going down to finish changing," Matthew said reluctantly. "He isn't happy with dealing with the hybrid life. He talked with Rylie and me, and we agree it may be best for him to change on his terms."    
+&nbsp;&nbsp;&nbsp;&nbsp;"Oh."     
+&nbsp;&nbsp;&nbsp;&nbsp;"Yeah, it wasn't an easy decision for him, but he got to chat with the director and fell in love with the facility. He is genuinely excited to go down on the twenty-ninth," Matthew said. "Only thing is, he is to bring someone with him, to be with him when he finishes. He specifically requested you, that is, if you woke up in time."    
+&nbsp;&nbsp;&nbsp;&nbsp;Benji wants me to be with him when his changes finish? Why me and not Matthew or Rylie?     
+&nbsp;&nbsp;&nbsp;&nbsp;"Why me?" I asked Matthew.    
+&nbsp;&nbsp;&nbsp;&nbsp;"I'm not supposed to tell you, but he said Damien and you have been like a father and a brother to him. He wants you to be there; otherwise, he was going alone," Matthew said.    
+&nbsp;&nbsp;&nbsp;&nbsp;I never knew Benji thought of me like a brother. I tried to be there for him; I guess he didn’t have anyone outside the house. Did I have a choice? If he wanted me, then I'd be by his side.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Ok. I'll go if he thinks I would be best," I said.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Great, I'll talk to him and get everything scheduled with the rescue. You don't know how much this means to him," Matthew said.    
+&nbsp;&nbsp;&nbsp;&nbsp;"Yeah, seems like I missed quite a bit around here," I looked at Matthew's eyes.    
+&nbsp;&nbsp;&nbsp;&nbsp;"A little bit. I can now say you are no longer alone when it comes to the down below," Matthew joked, and he pointed to the feathers covering his lower region. "I get your natural covering jokes now."     
+&nbsp;&nbsp;&nbsp;&nbsp;I laughed, knowing now someone else had experienced it. His jet-black eyes stared at me as he also began laughing. Maybe even a bit embarrassed having admitted to the changes, but laughing seems to be one of the best ways of coping with significant change. Maybe Benji had the right idea. He was unable to do much day-to-day on his own. Without hands to manipulate, a beak makes navigating and eating a chore. Would I be better off living fully as a bird? In my dream, it felt so good, like a dream fulfilled almost: flight, freedom, and the absence of the normal day-to-day stress involved in human life.    
+&nbsp;&nbsp;&nbsp;&nbsp;Maybe it was a sign, or perhaps it was just the hawk wanting to be free.    
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+[Previous Chapter](/BirdHouse/Chapter14)   [Next Chapter](/BirdHouse/Chapter16)
