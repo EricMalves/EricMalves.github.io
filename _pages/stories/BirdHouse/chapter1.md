@@ -1,7 +1,7 @@
 ---
 title: "Anima: The Bird House Chapter 1"
 layout: single
-permalink: /BirdHouse/Chapter1/
+permalink: /BirdHouse/Chapter1
 author_profile: true
 ---
 
